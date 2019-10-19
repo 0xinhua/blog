@@ -1,7 +1,7 @@
 # blog
 My personal blog about Thoughts, Codes, Ideas, etc.
 
-# [博客地址🌏](https://m1sery.github.io/)
+# [🌏博客地址](https://m1sery.github.io/)
 
 > **写博客目的是记录自己的学习过程以及知识分享、交流，内容主要跟前端相关，偶尔也会夹杂着一些读书笔记。**
 
@@ -29,4 +29,7 @@ My personal blog about Thoughts, Codes, Ideas, etc.
 * 07-15 **»** [那些不常用的git命令](https://m1sery.github.io/2017/07/15/The-git-you-may-not-frequently-used/)
 * 07-14 **»** [webpack v2升级踩坑笔记](https://m1sery.github.io/2017/07/14/Migrating-webpack-from-v1-to-v2/)  
 
-*(博客同步更新部署在我的网站 [https://wuxinhua.com](https://wuxinhua.com/) 上*.
+
+( 博客问题、技术讨论等可以 [issues](https://github.com/M1seRy/blog/issues) 留言或邮件 wuxinhua.cn@gmail.com 联系到我   
+博客同步更新部署在我的网站 [https://wuxinhua.com](https://wuxinhua.com/) 上 )
+
