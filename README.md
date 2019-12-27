@@ -6,6 +6,8 @@ My personal blog about Thoughts, Codes, Ideas, etc.
 > **写博客目的是记录自己的学习过程以及知识分享、交流，内容主要跟前端相关，偶尔也会夹杂着一些读书笔记。**
 
 ## #2019年
+* 11-30 **»** [译文: 从 Travis 迁移至 GitHub Actions](https://m1sery.github.io/2019/11/30/Migrating-from-travis-to-GitHub-Actions/)
+* 11-02 **»** [适配 iOS 13](https://m1sery.github.io/2019/11/02/Whats-new-in-iOS-13-and-adapting-app-to-new-version/)
 * 07-31 **»** [React Native 新手常见问题及体验总结](https://m1sery.github.io/2019/07/31/The-common-issues-and-errors-I-have-faced-as-a-react-native-beginner/)  
 * 04-27 **»** [ES10(ECMAScript2019) 特征预览](https://m1sery.github.io/2019/04/27/A-Preview-Of-ECMAScript2019-ES10/)
 * 02-25 **»** [Flexbox布局完全指南](https://m1sery.github.io/2019/02/25/The-Guide-To-Flexbox/)
