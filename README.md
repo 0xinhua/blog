@@ -5,6 +5,16 @@ My personal blog about Thoughts, Codes, Ideas, etc.
 
 > **写博客目的是记录自己的学习过程以及知识分享、交流，内容主要跟前端相关，偶尔也会夹杂着一些读书笔记。**
 
+## #2021年
+* 12-31 **»** [混迹于 Clubhouse 两周后的一些想法🤔](https://m1sery.github.io/2021/02/18/Discussion-On-The-Popularity-Of-Clubhouse/)
+
+## #2020年
+* 12-31 **»** [知识的碎片（2020）](https://m1sery.github.io/2020/12/31/The-Daily-Notes-Of-2020/)
+* 08-02 **»** [初探 Web Components](https://m1sery.github.io/2020/08/02/Web-Components/)
+* 01-21 **»** [TLDR](https://m1sery.github.io/2020/03/11/Too-Long-Dont-Read/)
+* 01-21 **»** [Linux 命令行之 Crontab](https://m1sery.github.io/2020/01/21/Learning-Linux-Series-Command-Line-Crontab/)
+
+
 ## #2019年
 * 11-30 **»** [译文: 从 Travis 迁移至 GitHub Actions](https://m1sery.github.io/2019/11/30/Migrating-from-travis-to-GitHub-Actions/)
 * 11-02 **»** [适配 iOS 13](https://m1sery.github.io/2019/11/02/Whats-new-in-iOS-13-and-adapting-app-to-new-version/)
@@ -37,7 +47,7 @@ My personal blog about Thoughts, Codes, Ideas, etc.
 
 
 ( 博客问题、技术讨论等可以 [issues](https://github.com/M1seRy/blog/issues) 留言或邮件📮wuxinhua.cn@gmail.com 联系到我   
-博客同步更新部署在我的网站 [https://wuxinhua.com](https://wuxinhua.com/) 上。)
+博客同步更新部署在我的个人网站 [https://wuxinhua.com](https://wuxinhua.com/) 上。)
 
 <p align="left">
   Created with ❤️ by @M1seRy.
